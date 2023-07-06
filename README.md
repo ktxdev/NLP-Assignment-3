@@ -6,4 +6,6 @@ Assignment \#3
 | Submission | Individual Submission, Upload your scripts to Canvas in a zipped package  |
 | Points     | 200                                                                       |
 
-Contents
+#Instructions
+
+Complete the Parts I - III and provide a zipped folder upload in Canvas.
