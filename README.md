@@ -8,4 +8,4 @@ Assignment \#3
 
 #Instructions
 
-Complete the Parts I - III and provide a zipped folder upload in Canvas.
+Complete the Parts I - III and provide a zipped folder upload in Canvas. Example files are provided merely for context. There is no submission required for these.
